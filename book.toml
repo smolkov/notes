@@ -1,0 +1,6 @@
+[book]
+authors = ["smolkov"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Notes"
