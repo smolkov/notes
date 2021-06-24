@@ -4,3 +4,4 @@
 - [Linux](./linux.md)
 - [Rust](./rust/index.md)
     * [Collections](./rust/collection.md)
+- [Profiling](./profiling.md)
