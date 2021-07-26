@@ -6,6 +6,9 @@ Profiling linux application
 
 ## gprof
 
+* compiele program mit flag '-pg'
+
+
 ## valgrind
 
 ## sysprof
@@ -23,3 +26,5 @@ System wide profiling
 ## bootchart
 
 [Visualize linux boot process](https://www.dedoimedo.com/computers/bootchart.html)
+
+## ftrace
