@@ -19,6 +19,9 @@ System profiling
 
 System wide profiling
 
+* [Linux Performance Counters mit perf und perf-tools](https://www.thomas-krenn.com/de/wiki/Linux_Performance_Counters_mit_perf_und_perf-tools)
+* [Linux Performance Counters mit perf und perf-tools](https://www.thomas-krenn.com/de/wiki/Linux_Performance_Counters_mit_perf_und_perf-tools)
+
 ## strace
 
 ## pidstat
