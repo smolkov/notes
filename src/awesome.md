@@ -4,6 +4,7 @@
 
 * [Network](#network)
 * [GUI](#gui)
+* [Frameworks](#frameworks)
 
 ## Network
 
@@ -21,3 +22,7 @@
 
 * [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support. 
 * [spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly. 
+
+## Other
+
+* [GNUnet](https://www.gnunet.org/en/)
