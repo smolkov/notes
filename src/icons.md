@@ -4,12 +4,12 @@
 
 ## Useful font icons
 
- * `🗃` - open, initializing 
+ * `🗃` - open, initializing
  * `✨` - cast, magic
  * `⚙️`  - processing, operation
  * `🚀` - start
  * `📦` - package
  * `⚓`  - done
- * `📄`
- * `🎉`
- * `👉`
+ * `📄` - 
+ * `🎉` - 
+ * `👉` - 

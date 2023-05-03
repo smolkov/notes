@@ -12,7 +12,8 @@
 ### Archetiktur und Konzept
 
 * Wir konnen anstatt Programmiersprache zu andern die Archetiktur verbessern.
-* Mit neue Architectur konnen wir programme in belibige sprache verwenden.
+* Mit neue Architectur konnen wir belibige programmiersprachen verwenden.
+
 
 
 * Keine Erfahrun in cpp nur eine Programm bis jetzt geschrieben (spater in c portiert war zu langsam)
